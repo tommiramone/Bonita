@@ -188,7 +188,7 @@ li {
 }
 
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 499px) {
     .menu-sm {
         display: block;
     }
